@@ -1,0 +1,19 @@
+Component, Quantity
+ESP32, 1
+Potentiometer 10k, 1
+4-Digit 7-Segment display, 1
+8-Bit shift register 74HC595N, 1
+Photoresistor, 1
+DHT11 Temperature and humidity sensor, 1
+LED (Blue), 1
+NPN transistor, 1 
+Relay Module, 1
+220 Resistors, 8
+10k Resistors, 2
+330 Resistor, 1
+Jumper Wires, A bunch
+Breadboard, 1
+USB-C cable, 1
+
+
+
