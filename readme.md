@@ -18,7 +18,7 @@ The assigment was to use all of the compoments in the arduino set that we have n
 - You can view or download the component list here: [components.csv](components.csv)
 
 ## Circuit Diagram
-![Circuit photo](real_photo.jpg)
+![Circuit photo](real_photo.jpeg)
 
 ## Wirring Diagram
 ![Wirring diagram](wirring_hw3.pdf)
